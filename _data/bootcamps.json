@@ -1,0 +1,43 @@
+[
+	{
+    "name": "Anazor chioma",
+		"description": "Deleteing  is a full stack JavaScript",
+		"website": "https://devworks.com",
+		"phone": "(111) 111-1111",
+		"email": "enroll@devworks.com",
+		"address": "233 Bay State Rd Boston MA 02215",
+		"careers": "Web Developement",
+		"housing": true,
+		"jobAssistance": true,
+		"jobGuarantee": false,
+		"acceptGi": true
+},
+
+{
+    "name": "ANAzor ejike",
+		"description": "Deleteing  is a full stack JavaScript",
+		"website": "https://devworks.com",
+		"phone": "(111) 111-1111",
+		"email": "enroll@devworks.com",
+		"address": "233 Bay State Rd Boston MA 02215",
+		"careers": "Web Developement",
+		"housing": true,
+		"jobAssistance": true,
+		"jobGuarantee": false,
+		"acceptGi": true
+},
+
+{
+    "name": "ANazor chima",
+		"description": "Deleteing  is a full stack JavaScript",
+		"website": "https://devworks.com",
+		"phone": "(111) 111-1111",
+		"email": "enroll@devworks.com",
+		"address": "233 Bay State Rd Boston MA 02215",
+		"careers": "Web Developement",
+		"housing": true,
+		"jobAssistance": true,
+		"jobGuarantee": false,
+		"acceptGi": true
+}
+]
